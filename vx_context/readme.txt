@@ -1,1 +1,5 @@
 gcc vx_context.cpp  -I /home/akshayabaalajis/OpenVX-sample-impl/install/Linux/x64/Debug/include   -L /home/akshayabaalajis/OpenVX-sample-impl/install/Linux/x64/Debug/bin   -lopenvx -lstdc++   -Wl,-rpath,/home/akshayabaalajis/OpenVX-sample-impl/install/Linux/x64/Debug/bin   -o hello_openvx
+
+
+Runtime is nothing but the running the CPP executable 
+[ ./a.out ]
