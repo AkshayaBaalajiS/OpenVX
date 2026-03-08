@@ -1,0 +1,12 @@
+This is the code to understand the graph in OpenVX 
+
+Notes:
+1. graph is for defining the pipeline 
+2. internally graph manages the 
+	. parallel execution 
+	. Optimize execution 
+	. Schedule Hardware 
+	. In cpp the flow will be ordered but in OpenVX graph internally manages the independent node to execute in parallel
+
+
+In this code the object created 
